@@ -24,13 +24,13 @@
   <a href="https://twitter.com/dheerajparat" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/dheeraj-parat-ab08322b7/" target="blank">
+  <a href="https://www.linkedin.com/in/dheerajparat/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/dheeraj_parat" target="blank">
+  <a href="https://instagram.com/dheerajparat" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/@creationwithdheeraj" target="blank">
+  <a href="https://www.youtube.com/@dheerajparat" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
