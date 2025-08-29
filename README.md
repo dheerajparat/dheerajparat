@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&width=800&height=100&lines=🇮🇳+Tech+Enthusiast+🔥;🇮🇳+Cybersecurity+Specialist+🛡️;🇮🇳+Electronics+Engineer+⚡;🇮🇳+Building+the+Future+🚀" alt="Typing SVG" />
+<img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&width=800&height=100&lines=🇮🇳+Tech+Enthusiast+🔥;🇮🇳+Cybersecurity+Specialist+🛡️;🇮🇳+Electronics+Engineer+⚡;🇮🇳+Building+the+Future+🚀" alt="Typing SVG" />
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=dheerajparat&color=blueviolet&style=for-the-badge&abbreviated=true" />
