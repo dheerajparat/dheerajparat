@@ -103,18 +103,18 @@
 
 ## 🏆 GitHub Trophies
 
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dheerajparat&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
----
 
 ## 🔥 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <!-- If the snake image does not show, use this fallback SVG or PNG -->
+  <img src="https://github.com/dheerajparat/dheerajparat/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
-
 ---
 
 ## 🎯 Featured Projects
