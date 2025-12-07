@@ -36,20 +36,20 @@
 
 <samp>
 
-- 🔭 **Currently Working On:**  
+- 🔭 <b>Currently Working On:</b>  
   Advanced Penetration Testing, Network Security & Smart IoT Devices  
-- 🌱 **Learning:**  
+- 🌱 <b>Learning:</b>  
   Cloud Security, AI/ML for Security, Advanced Python, Flutter  
-- 👨‍💻 **Exploring:**  
+- 👨‍💻 <b>Exploring:</b>  
   Ethical Hacking, Cybersecurity, Electronics Engineering & Embedded Systems  
-- 📝 **Writing:**  
-  Tech blogs on **Creation with Dheeraj** (blogs, tutorials, hacks – *legal & ethical only* 😏)  
-- 💬 **Ask Me About:**  
-  Cybersecurity, Python, JavaScript, Linux, Ethical Hacking basics, IoT stuff  
-- ⚡ **Fun Fact:**  
-  Debugging speed ∝ number of chai cups ☕  
-- 🎧 **Mode:**  
-  Dark theme + headphones + terminal = perfect setup
+- 📝 <b>Writing:</b>  
+  Tech blogs on <b>Creation with Dheeraj</b>  
+- 💬 <b>Ask Me About:</b>  
+  Cybersecurity, Python, JavaScript, Linux, Ethical Hacking basics, IoT  
+- ⚡ <b>Fun Fact:</b>  
+  Debugging speed ∝ chai cups ☕  
+- 🎧 <b>Mode:</b>  
+  Dark theme + headphones + terminal
 
 </samp>
 
@@ -57,11 +57,11 @@
 
 ## 🧠 Current Focus (2025–26 Roadmap)
 
-- ✅ Become **all-rounder in Cybersecurity & Hacking (Ethical)**  
+- ✅ All-rounder in **Cybersecurity & Ethical Hacking**  
 - ✅ Strong base in **Electronics & Embedded (Raspberry Pi, ESP32, Arduino)**  
-- 🚀 Build **custom smart devices**: speakers, clocks, security systems  
-- 🚀 Mix **AI + Security + IoT** for Indian use cases  
-- 🎯 Long term: **Build my own devices & tools – Made in India, for India 🇮🇳**
+- 🚀 Building **custom smart devices** (speakers, clocks, security systems)  
+- 🧠 Mixing **AI + Security + IoT**  
+- 🇮🇳 Long term: **Own devices & tools – Made in India, for India**
 
 ---
 
@@ -125,27 +125,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dheerajparat&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🔐 Featured Security & Dev Projects
 
-<div align="center">
-
+<p align="center">
   <a href="https://github.com/dheerajparat/cybersecurity-toolkit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajparat&repo=cybersecurity-toolkit&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9933&icon_color=138808&text_color=FFFFFF" alt="Cybersecurity Toolkit" />
+    <img src="https://img.shields.io/badge/Cybersecurity_Toolkit-Open%20Source-FF9933?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Toolkit" />
   </a>
-
   <a href="https://github.com/dheerajparat/ethical-hacking-scripts">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dheerajparat&repo=ethical-hacking-scripts&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF9933&icon_color=138808&text_color=FFFFFF" alt="Ethical Hacking Scripts" />
+    <img src="https://img.shields.io/badge/Ethical_Hacking_Scripts-Open%20Source-138808?style=for-the-badge&logo=github&logoColor=white" alt="Ethical Hacking Scripts" />
   </a>
-
-</div>
+</p>
 
 ---
 
@@ -156,8 +145,10 @@
   <!-- Typing Fun Facts -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=2000&color=FF9933&center=true&vCenter=true&width=600&lines=Chai+%2B+Code+%3D+Perfect+Stack+%E2%98%95%F0%9F%92%BB;I+still+use+printf()+for+debugging+%F0%9F%98%85;Dark+mode+or+it+didn't+happen+%F0%9F%8C%99;Breaking+things+to+learn+how+they+work+%F0%9F%94%AA;Terminal+%3E+GUI+%F0%9F%92%BB" alt="Fun Facts" />
 
-  <!-- Quotes -->
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical" alt="Quotes" />
+  <!-- Simple text quote instead of broken image -->
+  <br />
+  <samp><b>"Talk is cheap. Show me the code."</b> – Linus Torvalds</samp>
+  <br /><br />
 
   <!-- Jokes -->
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=%230d1117" alt="Jokes Card" />
@@ -168,8 +159,20 @@
 
 ## 🐍 Contribution Snake
 
+<!--
+  NOTE:
+  Snake image tab tak kaam karega jab tum apne repo pe
+  "github-contribution-grid-snake" GitHub Action configure karoge
+  aur output branch / file generate hogi.
+  Tab ye line uncomment karna:
+  
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/dheerajparat/dheerajparat/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </div>
+-->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dheerajparat/dheerajparat/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <samp>Snake animation coming soon... meanwhile, just keep committing 🐍</samp>
 </div>
 
 ---
@@ -180,9 +183,9 @@
 
 - 🔊 Smart speakers & assistant-style devices (ESP32 + mic + speaker + display)  
 - ⏰ Smart desk clocks with Wi-Fi sync, sensors & custom UI  
-- 🛡️ Small but powerful security tools/scripts in Python  
+- 🛡️ Security tools/scripts in Python  
 - 📡 Network monitoring & packet-sniffing labs  
-- 📱 Android / Flutter apps for **automation + productivity**
+- 📱 Android / Flutter apps for automation & productivity  
 
 </samp>
 
@@ -190,9 +193,9 @@
 
 ## 🤝 Let’s Collaborate
 
-- 💼 Open to: **Security research, IoT projects, open-source tools, Indian-focused tech solutions**
-- 🧪 Ready to experiment with: **AI + Cybersecurity + IoT + Electronics**
-- 📬 Best way to reach: **Mail / Twitter / LinkedIn**
+- 💼 Open to: Security research, IoT projects, open-source tools  
+- 🧪 Love experimenting with: AI + Cybersecurity + IoT + Electronics  
+- 📬 Reach me: Mail / Twitter / LinkedIn
 
 ---
 
